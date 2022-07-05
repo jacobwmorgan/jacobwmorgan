@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects will be available at [jacobwmorgan.xyz/portfolio](jacobwmorgan.xyz/portfolio)
 
-- 📝 I regularly write articles on [jacobwmorgan.xyz/blog](jacobwmorgan.xyz/blog)
+- 📝 Get updates on what im doing [jacobwmorgan.xyz/blog](jacobwmorgan.xyz/blog)
 
 - 📫 How to reach me **jakey#7299**
 
