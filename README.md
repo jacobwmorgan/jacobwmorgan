@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacobwmorgan&label=Profile%20views&color=0e75b6&style=flat" alt="jacobwmorgan" /> </p>
 
-- 🔭 I’m currently working on [my website](jacobwmorgan.xyz)
+- 🔭 I’m currently working on [my website](https://jacobwmorgan.xyz/)
 
 - 🌱 I’m currently learning **Nuxt**
 
-- 👨‍💻 All of my projects will be available at [jacobwmorgan.xyz/portfolio](jacobwmorgan.xyz/portfolio)
+- 👨‍💻 All of my projects will be available at [jacobwmorgan.xyz/portfolio](https://jacobwmorgan.xyz/portfolio)
 
-- 📝 Get updates on what im doing [jacobwmorgan.xyz/blog](jacobwmorgan.xyz/blog)
+- 📝 Get updates on what im doing [jacobwmorgan.xyz/blog](https://jacobwmorgan.xyz/blog)
 
 - 📫 How to reach me **jakey#7299**
 
-- 📄 Know about my experiences [jacobwmorgan.xyz/resume](jacobwmorgan.xyz/resume)
+- 📄 Know about my experiences [jacobwmorgan.xyz/resume](https://jacobwmorgan.xyz/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
