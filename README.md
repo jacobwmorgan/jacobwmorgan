@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacobwmorgan&label=Profile%20views&color=0e75b6&style=flat" alt="jacobwmorgan" /> </p>
 
-
-![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobwmorgan&show_icons=true&theme=darcula)
-
-
-https://github-readme-stats.vercel.app/api?username=jacobwmorgan&show_icons=true&theme=darcula
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jacobwmorgan&show_icons=true&theme=darcula" />
 </a>
