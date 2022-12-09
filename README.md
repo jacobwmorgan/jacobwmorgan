@@ -6,3 +6,9 @@
 
 ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobwmorgan&show_icons=true&theme=darcula)
 
+
+https://github-readme-stats.vercel.app/api?username=jacobwmorgan&show_icons=true&theme=darcula
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jacobwmorgan&show_icons=true&theme=darcula" />
+</a>
